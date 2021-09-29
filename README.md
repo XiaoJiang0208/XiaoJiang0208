@@ -23,8 +23,8 @@ About me:
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xiaojiang0208&show_icons=true&icon_color=805AD5&theme=onedark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=XiaoJiang0208&show_icons=true&icon_color=805AD5&theme=onedark" />
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaojiang0208&layout=compact&theme=onedark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoJiang0208&layout=compact&theme=onedark" />
