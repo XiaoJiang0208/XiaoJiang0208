@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 > e-mail:1837080396@qq.com & 1837080396@gmail.com
 ---
 About me:
-
-<br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=XiaoJiang0208&show_icons=true&icon_color=805AD5&theme=onedark" />
-
 <br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoJiang0208&layout=compact&theme=onedark" />
