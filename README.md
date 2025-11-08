@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📫 How to reach me: 
-> QQ:1837080396
-> e-mail:1837080396@qq.com & 1837080396@gmail.com
+
 ---
 About me:
 <br>
